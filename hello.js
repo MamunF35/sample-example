@@ -7,3 +7,4 @@ var mamun={
 };
 mamun.age=mamun.age.toString()
 var lol=JSON.stringify(mamun)
+i love you so much
